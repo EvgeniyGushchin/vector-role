@@ -1,5 +1,7 @@
 # Vector Role 
 
+[v1.0.1](https://github.com/EvgeniyGushchin/vector-role/tags)
+
 ## Description
 
 Deploy Vector using Ansible.
